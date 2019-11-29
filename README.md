@@ -6,4 +6,5 @@ Implementing some of the building blocks of machine learning for my own learning
 2. Principal Component Analysis and Fisher's Linear Discriminant Analysis : 
    Implemented PCA to reduce dimensions of images from 2 classes - '5' and '8' - the MNIST dataset and reconstructing them back. 
    Implemented LDA from scratch to classify them into one of the two classes. Obtained a training accuracy of 94% and a test accuracy of  93%. 
-3.  Implemented non-linear regression using zero mean noiseless Gaussian Processes to estimate the function values f(x) = sin(0.5∗x) for x ∈ [−4,4]. 
+3. Implemented non-linear regression using zero mean noiseless Gaussian Processes to estimate the function values f(x) = sin(0.5∗x) for x ∈ [−4,4]. 
+4. Modelling a handwritten digit classifier using Multi-layer Neural Network. The model is trained to classify the images of handwritten digits into 10 classes( digits 0 -9) using MNIST dataset of handwritten digits for training the classifier.
